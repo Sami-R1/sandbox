@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 17:38 IR
+- 📱 [WhiteDNS-1.3.0-universal.apk](https://github.com/Sami-R1/sandbox/raw/main/dl/WhiteDNS-1.3.0-universal.apk) `16.5MB`
+
+---
+
+
 ### 📅 2026-05-12 17:19 IR
 - 📱 [`com.netmod.syna.apks`](https://github.com/nscl5/sandbox/raw/main/apks/com.netmod.syna.apks) - **23.4MB**
 
